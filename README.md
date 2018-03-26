@@ -1,5 +1,5 @@
 # Budget-App
-Simple Budget App made with JS
+Practice Budget App made with JS
 
 
 The app lets you create a budget list of expenses and income with percentages of total expenses used.
